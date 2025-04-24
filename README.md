@@ -1,6 +1,3 @@
-🌱 currently learning new JS stack<br>⚡ Laravel addicted!
-
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/syaafiudinm_) 
 
