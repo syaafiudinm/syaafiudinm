@@ -1,6 +1,6 @@
 <div align="center">
   <h3>
-    Lifelong Learner
+    Nasi Kuning Pojok
   </h3>
 </div>
 
